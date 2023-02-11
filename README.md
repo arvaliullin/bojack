@@ -1,0 +1,3 @@
+# Bojack
+
+Playground for GoLang
